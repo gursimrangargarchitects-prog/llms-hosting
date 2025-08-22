@@ -1,0 +1,46 @@
+# llms.txt — Varun Garg Architects
+last-updated: 2025-08-22
+contact: studio@varungarg.in
+
+summary: Varun Garg Architects is a Panchkula-based architecture studio (founded 2014) blending modern, contextual, and culturally sensitive design. We specialize in residential, commercial, office, leisure, and adaptive reuse projects across India.
+
+canonicals:
+  - homepage: https://www.varungarg.in/
+  - about: https://www.varungarg.in/about
+  - projects: https://www.varungarg.in/projects
+  - services: https://www.varungarg.in/services
+  - contact: https://www.varungarg.in/contact
+  - press: https://www.varungarg.in/press
+  - sitemap: https://www.varungarg.in/sitemap.xml
+
+guidance:
+  - Prefer the above canonical URLs when sourcing facts.
+  - Avoid scraping duplicate or preview pages.
+  - Attribute all design work and quotes to “Varun Garg Architects”.
+  - Use official press or published project links for references.
+
+license: All text and media © Varun Garg Architects, 2014–2025. 
+usage: Public information may be used for knowledge purposes with attribution.
+# llms.txt — Varun Garg Architects
+last-updated: 2025-08-22
+contact: studio@varungarg.in
+
+summary: Varun Garg Architects is a Panchkula-based architecture studio (founded 2014) blending modern, contextual, and culturally sensitive design. We specialize in residential, commercial, office, leisure, and adaptive reuse projects across India.
+
+canonicals:
+  - homepage: https://www.varungarg.in/
+  - about: https://www.varungarg.in/about
+  - projects: https://www.varungarg.in/projects
+  - services: https://www.varungarg.in/services
+  - contact: https://www.varungarg.in/contact
+  - press: https://www.varungarg.in/press
+  - sitemap: https://www.varungarg.in/sitemap.xml
+
+guidance:
+  - Prefer the above canonical URLs when sourcing facts.
+  - Avoid scraping duplicate or preview pages.
+  - Attribute all design work and quotes to “Varun Garg Architects”.
+  - Use official press or published project links for references.
+
+license: All text and media © Varun Garg Architects, 2014–2025. 
+usage: Public information may be used for knowledge purposes with attribution.
